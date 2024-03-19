@@ -42,8 +42,8 @@ The agent receives a reward of +1 for reaching the goal state (G). The agent rec
 
 ## Program
 ~~~
-NAME : Charan sai.v
-REG NO : 212221240061
+NAME : VALASAREDDY PALLAVI
+REG NO : 212221240059
 ~~~
 ~~~
 pip install git+https://github.com/mimoralea/gym-walk#egg=gym-walk
